@@ -4,6 +4,8 @@ Session: Thursday, October 26 from 15:50-16:25
 
 Speaker: [Dr. Rachael Ainsworth](https://www.research.manchester.ac.uk/portal/rachael.ainsworth.html), Jodrell Bank Centre for Astrophysics, School of Physics & Astronomy, University of Manchester
 
+Handout for this session: http://bit.ly/2hPG8yr
+
 ## Open in order to...
 ...cultivate change in the culture of the astronomy (and wider research) community to be more collaborative, iterative and open which is vital in order to pursue answers to fundamental questions about our Universe and inspire the next generation of researchers in STEM.
 
@@ -27,21 +29,24 @@ I am part of the current cohort of [Mozilla Open Leaders](https://mozilla.github
 A tutorial inspired by the [Mozilla Science Lab Friendly Intro to GitHub](https://github.com/mozillascience/friendly-github).
 
 ### What is GitHub?
+* Git is an open source program for tracking changes in text files. It was written by the author of the Linux operating system, and is the core technology that GitHub, the social and user interface, is built on top of.
 * GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-* Open and reproducible science
+* Open and reproducible science/code/research
    * Open source software is software that can be [freely used, modified, and shared (in both modified and unmodified form) by anyone](http://opensource.org/definition). Today the concept of "open source" is often extended beyond software, to represent a philosophy of collaboration in which working materials are made available online for anyone to fork, modify, discuss, and contribute to.
    * For more information on open source, specifically how to create and grow an open source project, GitHub have created [Open Source Guides](https://opensource.guide/) that will help you foster a healthy open source community.
+  
 
 
 ### Examples of how GitHub is used
 
-1. Project Management
-2. Websites
-3. Code documentation
-4. Open Educational Resources
-5. Open Data
-6. Online portfolio of your work
-7. All the things
+* Project Management
+* Websites
+* Code documentation
+* Open Educational Resources
+* Open Data
+* Online portfolio of your work
+* All the things
+
 
 ### Public vs Private repositories
 
@@ -53,14 +58,18 @@ A tutorial inspired by the [Mozilla Science Lab Friendly Intro to GitHub](https:
     * Gateway to openness for researchers not quite ready to open!
 
 ### Interface Tour & Jargon Busting
-* **Repository** or **Repo**: a collection of documents related to your project, in which you create and save new code or content
+GitHub Glossary https://help.github.com/articles/github-glossary/ 
+
+* **Repository** or **Repo**: a collection of documents related to your project, in which you create and save new code or content; they're easiest to imagine as a project's folder
 * **Fork** - A copy of a repository on GitHub
 * **Clone** - A copy of a repository on your computer
-* **README** - A document that introduces an open project to the public and any potential contributors; the first thing you see in a repo; usually written in Markdown 
+* **README** - A document that introduces an open project to the public and any potential contributors; the first thing you see in a repo; usually written in Markdown
+* **Commit** - Or "revision", is an individual change to a file (or set of files)
+* **Pull requests** - Proposed changes to a repository submitted by a user and accepted or rejected by a repository's collaborators
 * **Issues** - A way to manage and assign tasks
 * **Master** - The default “main” branch
 * **Branch** - An alternate version of the file
-* **Collaborator** vs **Contributor** - Collaborators have permission to make changes to files in your repository without your approval (they are the inner circle); anyone can be a Contributor via Pull Requests (though you don’t need to accept their contributions).
+* **Collaborator** vs **Contributor** - Collaborators have permission to make changes to files in your repository without your approval (they are the inner circle); anyone can be a Contributor via Pull Requests (though you don’t need to accept their contributions)
 
 
 ### Markdown
@@ -91,4 +100,11 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Hands-on activity
 
 We will finish this session with a hands-on activity following the GitHub Guides [Hello-World tutorial](https://guides.github.com/activities/hello-world/) to create a repository and edit the README! :tada:
+
+
+### More Resources
+
+* [GitHub Guides](https://guides.github.com/) 
+* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/) 
+* [How to choose a license for your GitHub repository](https://choosealicense.com/)
 
