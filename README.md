@@ -29,6 +29,8 @@ A tutorial inspired by the [Mozilla Science Lab Friendly Intro to GitHub](https:
 ### What is GitHub?
 * GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 * Open and reproducible science
+   * Open source software is software that can be [freely used, modified, and shared (in both modified and unmodified form) by anyone](http://opensource.org/definition). Today the concept of "open source" is often extended beyond software, to represent a philosophy of collaboration in which working materials are made available online for anyone to fork, modify, discuss, and contribute to.
+   * For more information on open source, specifically how to create and grow an open source project, GitHub have created [Open Source Guides](https://opensource.guide/) that will help you foster a healthy open source community.
 
 
 ### Examples of how GitHub is used
