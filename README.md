@@ -1,6 +1,4 @@
-# UoM Library Open Research Forum
-
-http://www.library.manchester.ac.uk/using-the-library/staff/research/open-research-forum/
+# [UoM Library Open Research Forum](http://www.library.manchester.ac.uk/using-the-library/staff/research/open-research-forum/)
 
 Session: Thursday, October 26 from 15:50-16:25
 
