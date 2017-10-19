@@ -58,18 +58,20 @@ A tutorial inspired by the [Mozilla Science Lab Friendly Intro to GitHub](https:
     * Gateway to openness for researchers not quite ready to open!
 
 ### Interface Tour & Jargon Busting
-GitHub Glossary https://help.github.com/articles/github-glossary/ 
+Glossary via [Mozilla Science Lab's GitHub Essentials](http://joeyklee.github.io/friendly-github-intro/guides/github-essentials/#glossary)
 
-* **Repository** or **Repo**: a collection of documents related to your project, in which you create and save new code or content; they're easiest to imagine as a project's folder
-* **Fork** - A copy of a repository on GitHub
-* **Clone** - A copy of a repository on your computer
-* **README** - A document that introduces an open project to the public and any potential contributors; the first thing you see in a repo; usually written in Markdown
-* **Commit** - Or "revision", is an individual change to a file (or set of files)
-* **Pull requests** - Proposed changes to a repository submitted by a user and accepted or rejected by a repository's collaborators
-* **Issues** - A way to manage and assign tasks
-* **Master** - The default “main” branch
-* **Branch** - An alternate version of the file
-* **Collaborator** vs **Contributor** - Collaborators have permission to make changes to files in your repository without your approval (they are the inner circle); anyone can be a Contributor via Pull Requests (though you don’t need to accept their contributions)
+**repository**, or **repo** - a collection of documents related to your project, in which you create and save new code or content.
+**markdown** - a lightweight way of annotating a document with instructions that tell a web browser how to format and display text.
+**version control** - a way of tracking changes to a document or collection of documents. Version control is like a time machine, it can take you back to the moment your document was created, or any other point in time when you or a collaborator saved that document.
+**Git** - the command-line software that tracks all changes to a collection of documents.
+**GitHub** - a service that hosts your repository online and helps you work with contributors. GitHub adds a web-based interface to version control.
+**fork**** - a copy of a repository that is saved in another user's GitHub account.
+**branch** - a copy of a repo that is contained within the original repo. Branches are used to work on a project features without altering the original or "master" repo.
+**commit** - a saved change to a document in a repository.
+**issue** - a message on GitHub that outlines a task that needs to be completed.
+**pull request** - a request to add a commit or collection of commits to a repository.
+**merge** - the act of incorporating new changes (commits) into a repository.
+**README** - a document that introduces an open project to the public and any potential contributors; the first thing you see in a repo; usually written in Markdown
 
 
 ### Markdown
@@ -104,7 +106,9 @@ We will finish this session with a hands-on activity following the GitHub Guides
 
 ### More Resources
 
-* [GitHub Guides](https://guides.github.com/) 
-* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/) 
-* [How to choose a license for your GitHub repository](https://choosealicense.com/)
-
+* GitHub Guides - https://guides.github.com/ 
+* GitHub Glossary https://help.github.com/articles/github-glossary/ 
+* Understanding the GitHub flow - https://guides.github.com/introduction/flow/ 
+* Mastering Markdown - https://guides.github.com/features/mastering-markdown/ 
+* How to choose a license for your GitHub repository - https://choosealicense.com/ 
+* Mozilla Science Lab GitHub Essentials - http://joeyklee.github.io/friendly-github-intro/guides/github-essentials/ 
