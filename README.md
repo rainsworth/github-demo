@@ -1,6 +1,6 @@
 # [UoM Library Open Research Forum](http://www.library.manchester.ac.uk/using-the-library/staff/research/open-research-forum/)
 
-Session: Thursday, October 26 from 15:50-16:25
+Session: Friendly intro to GitHub: an online portfolio for open and collaborative research on Thursday, October 26 from 15:50-16:25
 
 Speaker: [Dr. Rachael Ainsworth](https://www.research.manchester.ac.uk/portal/rachael.ainsworth.html), Jodrell Bank Centre for Astrophysics, School of Physics & Astronomy, University of Manchester
 
@@ -24,7 +24,7 @@ Making research results more accessible contributes to better and more efficient
 I am part of the current cohort of [Mozilla Open Leaders](https://mozilla.github.io/leadership-training/) where I receive mentorship and training through the Mozilla Network on a project to advance open research: [Resources for Open Science in Astronomy (ROSA)](https://github.com/rainsworth/ROSA). My project ROSA aims to collaboratively compile and tailor open science best practices from around the web into a kit for astronomers to work openly from proposal to publication. ROSA will be written for use by all research levels but its mission is to supply a single resource to early career scientists to empower them with the tools to practice open access/data/source/science! The project will also result in a general open science resource toolkit to encourage adaptation and reuse for any field of research, which can benefit all departments of the University of Manchester.
 
 
-## A Friendly intro to open and collaborative research using GitHub :octocat:
+## Friendly intro to GitHub: an online portfolio for open and collaborative research :octocat:
 
 A tutorial inspired by the [Mozilla Science Lab Friendly Intro to GitHub](https://github.com/mozillascience/friendly-github).
 
