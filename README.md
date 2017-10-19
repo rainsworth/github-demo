@@ -65,7 +65,7 @@ Glossary via [Mozilla Science Lab's GitHub Essentials](http://joeyklee.github.io
 * **version control** - a way of tracking changes to a document or collection of documents. Version control is like a time machine, it can take you back to the moment your document was created, or any other point in time when you or a collaborator saved that document.
 * **Git** - the command-line software that tracks all changes to a collection of documents.
 * **GitHub** - a service that hosts your repository online and helps you work with contributors. GitHub adds a web-based interface to version control.
-* **fork**** - a copy of a repository that is saved in another user's GitHub account.
+* **fork** - a copy of a repository that is saved in another user's GitHub account.
 * **branch** - a copy of a repo that is contained within the original repo. Branches are used to work on a project features without altering the original or "master" repo.
 * **commit** - a saved change to a document in a repository.
 * **issue** - a message on GitHub that outlines a task that needs to be completed.
